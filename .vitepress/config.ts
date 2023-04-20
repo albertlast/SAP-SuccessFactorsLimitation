@@ -5,7 +5,7 @@ export default defineConfig({
   title: "SAP-SuccessFactors Limitation",
   description: "A collection of Limitation of SuccessFactors",
   lang: "en",
-  base: "./",
+  base: "/SAP-SuccessFactorsLimitation",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
