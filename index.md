@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Know the limitation
-    details: Provide infomration about the diferent modul and there limitation
+    details: Provide information about the different module and there limitation
   - title: Workaround
     details: Provide solution to get around this limitation
 ---

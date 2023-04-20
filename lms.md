@@ -16,7 +16,7 @@ LMS provide no ODQ/ODP API, so a transfer of high amount of data to a SAP BW ABA
 ### SAP BW connection workaround
 
 To overcome this issue, you can use the internal reporting solution of lms, to generate csv files.
-But csv files are a huge step backward from the old premis lso solution.
+But csv files are a huge step backward from the old premise lso solution.
 
 # Own System
 
