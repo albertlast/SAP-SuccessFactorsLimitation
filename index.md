@@ -4,9 +4,12 @@ layout: home
 
 hero:
   name: "SAP-SuccessFactors Limitation"
-  text: "A collection of Limitation of SuccessFactors"
+  text: "A collection of limitation of SuccessFactors"
   tagline: Documentation the limitation of SuccessFactor
   actions:
+    - theme: alt
+      text: General
+      link: /general
     - theme: alt
       text: Learning Management System
       link: /lms
