@@ -9,7 +9,8 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "author": "",
+  "repository": "github:albertlast/SAP-SuccessFactorsLimitation",
+  "author": "albertlast",
   "license": "MIT",
   "dependencies": {
     "vitepress": "^1.0.0-alpha.66"

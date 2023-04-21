@@ -7,7 +7,7 @@ hero:
   text: "A collection of limitation of SuccessFactors"
   tagline: Documentation the limitation of SuccessFactor
   actions:
-    - theme: alt
+    - theme: brand
       text: General
       link: /general
     - theme: alt
