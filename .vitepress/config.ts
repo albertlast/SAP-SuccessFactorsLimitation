@@ -10,13 +10,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "LMS", link: "/lms" },
+      { text: "General", link: "/general" },
     ],
 
     sidebar: [
       {
         text: "Topics",
         items: [
+          { text: "General", link: "/general" },
           { text: "Learning Management System", link: "/lms" },
           { text: "Role-Based Permissions", link: "/rbp" },
         ],
